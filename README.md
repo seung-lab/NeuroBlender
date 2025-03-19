@@ -44,12 +44,11 @@ pip install cloud-volume meshparty caveclient
 ```bash
 python -m venv blender_env
 source blender_env/bin/activate
+```
 
 
 Everything is self-contained in the .ipynb file and you can access the functions' code in source_functions.py. 
+
 Contact me at levisseraphael0@gmail.com for any questions or suggestions. Thanks to the Seung Lab for the data, Sven Dorkenwald and the CaveClient team for meshparty, William Silversmith for his efficient cloudvolume library. And of course, Pr. Sebastian Seung for motivating this project.
-
-
-
 
 Happy rendering!
